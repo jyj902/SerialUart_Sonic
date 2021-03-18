@@ -1,0 +1,11 @@
+C:\Users\s02\source\repos\WindowsFormsApp_SerialUart_Sonic\bin\Debug\WindowsFormsApp_SerialUart_Sonic.exe.config
+C:\Users\s02\source\repos\WindowsFormsApp_SerialUart_Sonic\bin\Debug\WindowsFormsApp_SerialUart_Sonic.exe
+C:\Users\s02\source\repos\WindowsFormsApp_SerialUart_Sonic\bin\Debug\WindowsFormsApp_SerialUart_Sonic.pdb
+C:\Users\s02\source\repos\WindowsFormsApp_SerialUart_Sonic\obj\Debug\WindowsFormsApp_SerialUart_Sonic.csprojAssemblyReference.cache
+C:\Users\s02\source\repos\WindowsFormsApp_SerialUart_Sonic\obj\Debug\WindowsFormsApp_SerialUart_Sonic.Form1.resources
+C:\Users\s02\source\repos\WindowsFormsApp_SerialUart_Sonic\obj\Debug\WindowsFormsApp_SerialUart_Sonic.Properties.Resources.resources
+C:\Users\s02\source\repos\WindowsFormsApp_SerialUart_Sonic\obj\Debug\WindowsFormsApp_SerialUart_Sonic.Serial_Con.resources
+C:\Users\s02\source\repos\WindowsFormsApp_SerialUart_Sonic\obj\Debug\WindowsFormsApp_SerialUart_Sonic.csproj.GenerateResource.cache
+C:\Users\s02\source\repos\WindowsFormsApp_SerialUart_Sonic\obj\Debug\WindowsFormsApp_SerialUart_Sonic.csproj.CoreCompileInputs.cache
+C:\Users\s02\source\repos\WindowsFormsApp_SerialUart_Sonic\obj\Debug\WindowsFormsApp_SerialUart_Sonic.exe
+C:\Users\s02\source\repos\WindowsFormsApp_SerialUart_Sonic\obj\Debug\WindowsFormsApp_SerialUart_Sonic.pdb
